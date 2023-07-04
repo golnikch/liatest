@@ -7,6 +7,6 @@ Ich hätte gern etwas mehr Input.
 
 $ \frac{a}{\sum{b+i}} $
 
-{--2--}
+{{--2--}}
 
 # Kapitel 2
